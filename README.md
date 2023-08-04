@@ -1,9 +1,6 @@
 # rtl-detect
-[![Build Status](https://travis-ci.org/shadiabuhilal/rtl-detect.svg)](https://travis-ci.org/shadiabuhilal/rtl-detect)
 
-This library will help you to detect if the locale is right-to-left language or not.
-
-
+This is a fork of [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) that uses `Intl` if possible.
 
 ## Usage
 
