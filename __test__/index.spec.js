@@ -39,6 +39,10 @@ describe('index', function () {
         expect(RtlDetect.isRtlLang('ar-JO')).toBeTruthy();
 
         expect(RtlDetect.isRtlLang('ar_JO')).toBeTruthy();
+
+        expect(RtlDetect.isRtlLang('fa_IR')).toBeTruthy();
+
+        expect(RtlDetect.isRtlLang('he_IL')).toBeTruthy();
     });
 
     it('getLangDir()', function () {
