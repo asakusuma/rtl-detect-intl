@@ -1,7 +1,7 @@
 {
-  "name": "rtl-detect",
-  "version": "1.0.4",
-  "description": "Library will help you to detect if the locale is right-to-left language.",
+  "name": "rtl-detect-intl",
+  "version": "0.0.1",
+  "description": "Detect if a locale is RTL, using Intl if possible",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -30,9 +30,9 @@
     "ltr",
     "intl-lang"
   ],
-  "author": "Shadi Abu Hilal <shadiabuhilal@gmail.com> (http://github.com/shadiabuhilal)",
+  "author": "Asa Kusuma (http://github.com/asakusuma)",
   "license": "BSD-3-Clause",
-  "homepage": "https://github.com/shadiabuhilal/rtl-detect",
+  "homepage": "https://github.com/asakusuma/rtl-detect-intl",
   "bugs": {
     "url": "https://github.com/shadiabuhilal/rtl-detect/issues"
   },
