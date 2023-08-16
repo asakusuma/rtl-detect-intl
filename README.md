@@ -1,6 +1,6 @@
 # rtl-detect-intl
 
-This is a fork of [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) that uses `Intl` if possible: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Locale/getTextInfo#return_value
+This is a fork of [rtl-detect](https://github.com/shadiabuhilal/rtl-detect) that uses the browser/node `Intl` API if possible: [Locale.getTextInfo()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/Locale/getTextInfo#return_value)
 
 ## Usage
 
