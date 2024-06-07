@@ -1,6 +1,6 @@
 {
   "name": "rtl-detect-intl",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Detect if a locale is RTL, using Intl if possible",
   "main": "index.js",
   "scripts": {
