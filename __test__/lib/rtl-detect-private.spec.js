@@ -139,6 +139,7 @@ describe('rtl-detect', function () {
                 'fa',
                 'glk',
                 'he',
+                'iw',
                 'ku',
                 'mzn',
                 'nqo',
